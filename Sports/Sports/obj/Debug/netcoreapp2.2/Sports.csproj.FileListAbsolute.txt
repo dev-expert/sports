@@ -1,0 +1,69 @@
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.csproj.CoreCompileInputs.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.RazorAssemblyInfo.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.RazorAssemblyInfo.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.AssemblyInfoInputs.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.AssemblyInfo.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.TagHelpers.input.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.TagHelpers.output.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.RazorCoreGenerate.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddAthelete.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateTest.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\editAthelete.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Home\TestList.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.RazorTargetAssemblyInfo.cache
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.RazorTargetAssemblyInfo.cs
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.dll
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.pdb
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.deps.json
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.runtimeconfig.json
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.runtimeconfig.dev.json
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.dll
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.pdb
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.Views.dll
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\Sports.Views.pdb
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.Views.pdb
+E:\KBIHM\Other Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\Sports.csproj.CopyComplete
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.deps.json
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.runtimeconfig.json
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.runtimeconfig.dev.json
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.dll
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.pdb
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.Views.dll
+E:\asp.netCoreDemo\Sports\Sports\Sports\bin\Debug\netcoreapp2.2\Sports.Views.pdb
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.csprojAssemblyReference.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.csproj.CoreCompileInputs.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.RazorAssemblyInfo.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.RazorAssemblyInfo.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.AssemblyInfoInputs.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.AssemblyInfo.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.TagHelpers.input.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.TagHelpers.output.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.RazorCoreGenerate.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddAthelete.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateTest.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Home\editAthelete.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Home\TestList.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.RazorTargetAssemblyInfo.cache
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.RazorTargetAssemblyInfo.cs
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.Views.pdb
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.dll
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.pdb
+E:\asp.netCoreDemo\Sports\Sports\Sports\obj\Debug\netcoreapp2.2\Sports.csproj.CopyComplete

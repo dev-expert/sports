@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Sports.ViewModels.TestsList>
+
+@{
+    ViewData["Title"] = "TestList";
+}
+
+<h1>List Of Tests</h1>
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Coach"))
+{
+    <p>
+        <a asp-controller="Home" asp-action="CreateTest">Create New</a>
+    </p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfParticipants)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TestType.TestName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumberOfParticipants)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TestType.TestName)
+                </td>
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Coach"))
+                {
+                    <td>
+                        @Html.ActionLink("Details", "Details", new { id = item.TestId })
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
