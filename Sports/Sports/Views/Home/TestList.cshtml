@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Sports.ViewModels.TestsList>
 
 @{
-    ViewData["Title"] = "TestList";
+    ViewData["Title"] = "Test List";
 }
 
 <h1>List Of Tests</h1>
@@ -9,7 +9,7 @@
 @if (User.Identity.IsAuthenticated && User.IsInRole("Coach"))
 {
     <p>
-        <a asp-controller="Home" asp-action="CreateTest">Create New</a>
+        <a asp-controller="Home" asp-action="CreateTest">Create New Test</a>
     </p>
 }
 <table class="table">
@@ -43,7 +43,7 @@
                 @if (User.Identity.IsAuthenticated && User.IsInRole("Coach"))
                 {
                     <td>
-                        @Html.ActionLink("Details", "Details", new { id = item.TestId })
+                        @Html.ActionLink("Linked Athletes", "Details", new { id = item.TestId })
                     </td>
                 }
             </tr>
